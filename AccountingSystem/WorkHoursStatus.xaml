@@ -1,0 +1,23 @@
+﻿<Window x:Class="AccountingSystem.WorkHoursStatus"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AccountingSystem"
+        mc:Ignorable="d"
+        Title="WorkHoursStatus" Height="599.999" Width="986.628">
+    <Grid Background="#FF7D999B" Margin="0,0,2,0">
+        <Button x:Name="Back" Content="Back" HorizontalAlignment="Left" Margin="392,518,0,0" VerticalAlignment="Top" Width="206" Height="38" Background="#FF2A52DA" IsDefault="True" BorderThickness="2" BorderBrush="Black" SnapsToDevicePixels="True" FontSize="18" FontFamily="Lucida Handwriting" Click="Back_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <TextBlock x:Name="WorkHoursListBlock" HorizontalAlignment="Left" Margin="10,88,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="410" Width="957" FontSize="17"/>
+        <TextBlock x:Name="headerBlock" TextWrapping="Wrap" Text="" Margin="0,0,8,462" FontSize="14"/>
+        <Border BorderBrush="#FF930C37" BorderThickness="2,2,2,2" HorizontalAlignment="Left" Height="498" VerticalAlignment="Top" Width="967" CornerRadius="20">
+            <Border.Effect>
+                <DropShadowEffect/>
+            </Border.Effect>
+        </Border>
+    </Grid>
+</Window>

@@ -1,0 +1,34 @@
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\AccountingSystem.csprojAssemblyReference.cache
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\SignUp.g.cs
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\App.g.cs
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\AccountingSystem_MarkupCompile.cache
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\AccountingSystem_MarkupCompile.lref
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\bin\Debug\AccountingSystem.exe
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\bin\Debug\AccountingSystem.pdb
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\SignUp.baml
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\AccountingSystem.g.resources
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\AccountingSystem.csproj.GenerateResource.cache
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\AccountingSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\AccountingSystem.csproj.CopyComplete
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\AccountingSystem.exe
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\AccountingSystem.pdb
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\Add new employee.g.cs
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\Add new employee.baml
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\addWorkStatus.g.cs
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\addWorkStatus.baml
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\EmployeeList.g.cs
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\WorkHoursStatus.g.cs
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\EmployeeList.baml
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\WorkHoursStatus.baml
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\bin\Debug\NLog.config
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\bin\Debug\NLog.dll
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\bin\Debug\NLog.xml
+C:\Users\user\Documents\IPZ\tmpipz\AccountingSystem\obj\Debug\AccountingSystem_Content.g.cs
